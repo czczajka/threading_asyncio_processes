@@ -1,0 +1,8 @@
+* RUN TEST
+  ** python test_switching.py > result
+
+* Analyzing results
+  ** python analyze_switching.py
+
+NOTE
+In program there can be a problems related with writing to the same file by multiple threads
